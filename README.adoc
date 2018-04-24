@@ -25,6 +25,7 @@ IMPORTANT: Each new lab exercise builds upon the preceding lab, so please do not
 * Lab 5: link:labs/lab05/lab05.adoc[Microservice Service Discover and Load Balancing]
 * Lab 6: link:labs/lab06/lab06.adoc[Microservice Fault Tolerance with Circuit Breakers]
 * Lab 7: https://github.com/derrickchwong/spring-boot-concourse[CI/CD with Concourse]
+* Lab 8: https://github.com/Pivotal-Field-Engineering/pace-cnd-java/tree/master/spring-cloud-contracts[Spring Cloud Contract]
 
 == Lab Setup
 
